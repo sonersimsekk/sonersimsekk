@@ -34,7 +34,7 @@ I'm a software developer and AI enthusiast based in Istanbul, Türkiye. I enjoy 
 
 ### 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/sonersimsekk1) · [GitLab](https://gitlab.com/sonersimsek) · [GitHub](https://github.com/sonersimsekk)
+[LinkedIn](https://www.linkedin.com/in/soner-şimşek-653357273) · [GitLab](https://gitlab.com/sonersimsek) · [GitHub](https://github.com/sonersimsekk)
 
 ---
 
